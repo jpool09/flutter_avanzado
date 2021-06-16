@@ -1,6 +1,6 @@
 # platzi_trips_app
 
-A new Flutter project.
+A new Flutter project. This is the Flutter Advanced Course project.
 
 ## Getting Started
 
