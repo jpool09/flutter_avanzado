@@ -1,9 +1,7 @@
-// @dart=2.13
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'platzi_trips.dart';
 import 'platzi_trips_cupertino.dart';
-// ignore: import_of_legacy_library_into_null_safe
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 import 'package:platzi_trips_app/User/bloc/bloc_user.dart';
 
